@@ -1,5 +1,4 @@
 import { formatPhoneNumber } from './index'
-import { describe, it, expect } from 'jest'
 
 describe('utils', () => {
   it('normalizes a phone number to the prescribed format', () => {

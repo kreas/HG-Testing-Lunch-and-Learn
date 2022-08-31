@@ -7,11 +7,11 @@
     "start": "parcel index.html --open"
   },
   "dependencies": {
-    "@types/jest": "29.0.0",
     "parcel-bundler": "^1.6.1"
   },
   "devDependencies": {
-    "typescript": "4.4.4"
+    "typescript": "4.4.4",
+    "@types/jest": "29.0.0"
   },
   "resolutions": {
     "@babel/preset-env": "7.13.8"
